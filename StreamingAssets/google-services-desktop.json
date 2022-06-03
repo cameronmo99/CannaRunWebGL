@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1068612764790",
+    "firebase_url": "https://cannarun-9a061.firebaseio.com",
+    "project_id": "cannarun-9a061",
+    "storage_bucket": "cannarun-9a061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068612764790:android:087f8b021c1e57f6e10b57",
+        "android_client_info": {
+          "package_name": "com.GreenCropStudios.CannaRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068612764790-o7ib6itl22bh7qmh91h6dns5ksam1l80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-DyLVHHIwzu3CQk9YH7ND772cc6zkrW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068612764790-o7ib6itl22bh7qmh91h6dns5ksam1l80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068612764790-md8nk7ufudnb5fur89p3fn2rp27kff86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MorrisStudios.CannaRun"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068612764790:android:6ed1226862892cc5e10b57",
+        "android_client_info": {
+          "package_name": "com.MorrisStudios.CannaRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068612764790-o7ib6itl22bh7qmh91h6dns5ksam1l80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-DyLVHHIwzu3CQk9YH7ND772cc6zkrW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068612764790-o7ib6itl22bh7qmh91h6dns5ksam1l80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068612764790-md8nk7ufudnb5fur89p3fn2rp27kff86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MorrisStudios.CannaRun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
